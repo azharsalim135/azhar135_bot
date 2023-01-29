@@ -3,7 +3,7 @@ telegram bot for coding assessment,
 
 I have used to django-tgbot package to sent and recevice data to telegram,
 
-I will keep to keep the server running until the team checked and verifed the project. In case it is offline please contact me at 8281441870 or azharsalim135@gmail.com and i will check. 
+I will try to keep the server running until the team checked and verifed the project. In case it is offline please contact me at 8281441870 or azharsalim135@gmail.com and i will check. 
 
 # Requirements
 
