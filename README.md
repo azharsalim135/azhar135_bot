@@ -55,7 +55,7 @@ I will try to keep the server running until the team checked and verifed the pro
 
 ####  Screenshot 1
 
-![alt text](https://github.com/azharsalim135/azhar135_bot/raw/main/screenshots/Screenshot%202023-01-29%20171848.jpg)
+![alt text](https://github.com/azharsalim135/azhar135_bot/raw/main/screenshots/Screenshot%20chat.jpg)
 
 
 
