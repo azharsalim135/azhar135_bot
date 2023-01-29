@@ -1,6 +1,9 @@
 # azhat135_bot
 telegram bot for coding assessment,
-I have used to django-tgbot package to sent and recevice data to telegram, 
+
+I have used to django-tgbot package to sent and recevice data to telegram,
+
+I will keep to keep the server running until the team checked and verifed the project. In case it is offline please contact me at 8281441870 or azharsalim135@gmail.com and i will check. 
 
 # Requirements
 
@@ -12,7 +15,23 @@ I have used to django-tgbot package to sent and recevice data to telegram,
 
 - telegram client
 
+
+# Instructions
+
+- setup postgreSQL and set username,database name,local host port etc. on tgbot/tgbot/settings.py dict TEMPLATE
+
+- clone the repo to the drive.
+
+- setup up virtual env for python
+
 - run 'pip install -r requirements.txt
+
+- run python migrate.py makemigratation
+
+- run python migrate.py migrate
+
+- run python migrate.py runserver
+
 
 ### SET THE BOT TOKEN AT tgbot/azhar135_bot/credentials.py
 
@@ -26,13 +45,21 @@ I have used to django-tgbot package to sent and recevice data to telegram,
 
 ####  for every call user makes to the bot, the bot will add the count to the database.
 
+
+
 ####  Screenshot 1
 
 ![alt text](https://github.com/azharsalim135/azhar135_bot/raw/main/screenshots/Screenshot%202023-01-29%20171848.jpg)
 
+
+
+
 ####  Screenshot 2
 
 ![alt text](https://github.com/azharsalim135/azhar135_bot/raw/main/screenshots/Screenshot%202023-01-29%20171928.jpg)
+
+
+
 
 ####  Screenshot 3
 
