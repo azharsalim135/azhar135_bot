@@ -83,8 +83,8 @@ def sendJoke(bot,joke,chat_id,username):
     )
     update_db(joke)
     update_no_of_calls(username) #update db on per user calls
-    time.sleep(2)
-    send_inline_keyboard(bot, chat_id)
+    #time.sleep(2)
+    #send_inline_keyboard(bot, chat_id)
 
 def update_db(btn_name):
     conn = connections['default']
