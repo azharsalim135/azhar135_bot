@@ -18,13 +18,19 @@ I will keep to keep the server running until the team checked and verifed the pr
 
 # Instructions
 
-- setup postgreSQL and set username,database name,local host port etc. on tgbot/tgbot/settings.py dict TEMPLATE
+- setup ngrok and telegram bot API key and link them
+
+- setup postgreSQL and set username,database name,localhost port etc. 
 
 - clone the repo to the drive.
 
 - setup up virtual env for python
 
 - run 'pip install -r requirements.txt
+
+- add the nkgrok url to django ALLOWED_HOSTS 
+
+- on tgbot/tgbot/settings.py dictionary TEMPLATE setup the username,database name, host and port adresses.
 
 - run python migrate.py makemigratation
 
