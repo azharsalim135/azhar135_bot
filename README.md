@@ -18,7 +18,9 @@ I will try to keep the server running until the team checked and verifed the pro
 
 # Instructions
 
-- setup ngrok and telegram bot API key and link them
+- setup ngrok and telegram bot API key and link them. Follow the below pattern.
+  
+    https://api.telegram.org/bot<BOT_TOKEN_ID>/setWebhook?url=<HOOK_URL>/azhar135_bot/update/
 
 - setup postgreSQL and set username,database name,localhost port etc. 
 
